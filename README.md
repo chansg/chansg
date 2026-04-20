@@ -43,15 +43,15 @@ An autonomous AI desktop assistant with a VTube Studio avatar, British Piper TTS
 
 ---
 
-### 📊 SQL Analytics Project
-Wrote SQL queries to answer real business questions — including SELECT, JOIN, aggregation, and database design tasks — using MySQL Workbench on structured datasets.
+### 🎮 [BDO Analytics](https://github.com/chansg/bdo-analytics) *(In Development)*
+A live market intelligence dashboard for the Black Desert Online EU Central Market. Phase 1 of a 5-phase capstone project — featuring best-seller scoring, price stability metrics, anomaly detection, and Cooking/Alchemy insights. Data sourced from the community arsha.io API with local caching and mock fallback.
 
-**Tools:** MySQL Workbench, SQL
+**Tools:** Python, Streamlit, Plotly, pandas
 
 ---
 
 ## 📬 Get in touch
 
 - 🐙 GitHub: [github.com/chansg](https://github.com/chansg)
-- LinkedIn: [linkedin.com/in/chansg](https://www.linkedin.com/in/chansg/)
+- 🔗 LinkedIn: [linkedin.com/in/chansg](https://www.linkedin.com/in/chansg/)
 - 💼 Open to Junior Data Analyst roles in the UK
