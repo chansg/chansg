@@ -23,10 +23,6 @@
 
 ## 📊 Data Analysis Skills
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-
 ### 🟢 Excel
 Skilled in formulas (VLOOKUP, INDEX/MATCH, IF, SUMIFS), pivot tables, conditional formatting, and building summary reports from raw datasets.
 
@@ -36,18 +32,11 @@ Built interactive dashboards using Tableau Public. Experienced with calculated f
 ### 🟡 Power BI
 End-to-end reports in Power BI Desktop and Service. Familiar with DAX measures, KPI cards, slicers, and drill-through pages.
 
-    </td>
-    <td valign="top" width="50%">
-
 ### 🐍 Python
 NumPy for numerical computation; Matplotlib for charts and histograms; Seaborn for statistical visualisations and heatmaps; pandas for cleaning, transformation, and merging.
 
 ### 🗄️ SQL
 SELECT, JOIN, aggregation (GROUP BY, HAVING), subqueries, and schema design using MySQL Workbench.
-
-    </td>
-  </tr>
-</table>
 
 ---
 
