@@ -23,20 +23,51 @@
 
 ## 📊 Data Analysis Skills
 
-### 🟢 Excel
-Skilled in formulas (VLOOKUP, INDEX/MATCH, IF, SUMIFS), pivot tables, conditional formatting, and building summary reports from raw datasets.
+<details>
+<summary><b>🟢 Excel</b></summary>
+<br>
 
-### 🔵 Tableau
-Built interactive dashboards using Tableau Public. Experienced with calculated fields, filters, parameters, and storytelling layouts.
+> **[📁 View Excel Projects](https://github.com/chansg/your-excel-repo)**
+- **Formula Proficiency:** VLOOKUP, INDEX/MATCH, IF, and SUMIFS.
+- **Reporting:** Building summary reports from raw datasets using Pivot Tables and Conditional Formatting.
+- *Bootcamp Highlight:* Built a sales performance tracker with dynamic dashboards.
+</details>
 
-### 🟡 Power BI
-End-to-end reports in Power BI Desktop and Service. Familiar with DAX measures, KPI cards, slicers, and drill-through pages.
+<details>
+<summary><b>🔵 Tableau</b></summary>
+<br>
 
-### 🐍 Python
-NumPy for numerical computation; Matplotlib for charts and histograms; Seaborn for statistical visualisations and heatmaps; pandas for cleaning, transformation, and merging.
+> **[📁 View Tableau Dashboards](https://github.com/chansg/your-tableau-repo)**
+- **Visualization:** Experienced with calculated fields, filters, and parameters.
+- **Storytelling:** Built interactive layouts on Tableau Public focusing on user-driven insights.
+</details>
 
-### 🗄️ SQL
-SELECT, JOIN, aggregation (GROUP BY, HAVING), subqueries, and schema design using MySQL Workbench.
+<details>
+<summary><b>🟡 Power BI</b></summary>
+<br>
+
+> **[📁 View Power BI Reports](https://github.com/chansg/your-powerbi-repo)**
+- **DAX & Modeling:** Created measures, KPI cards, and drill-through pages.
+- **End-to-End:** Managed data from Power BI Desktop through to Service publication.
+</details>
+
+<details>
+<summary><b>🐍 Python</b></summary>
+<br>
+
+> **[📁 View Python Notebooks](https://github.com/chansg/your-python-repo)**
+- **Data Wrangling:** Extensive use of `pandas` and `NumPy` for cleaning and merging.
+- **Viz:** `Matplotlib` and `Seaborn` for statistical heatmaps and histograms.
+</details>
+
+<details>
+<summary><b>🗄️ SQL</b></summary>
+<br>
+
+> **[📁 View SQL Queries](https://github.com/chansg/your-sql-repo)**
+- **Core:** SELECT, JOINs, and complex aggregations (GROUP BY/HAVING).
+- **Design:** Subqueries and schema design using MySQL Workbench.
+</details>
 
 ---
 
