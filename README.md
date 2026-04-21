@@ -52,7 +52,7 @@
 </details>
 
 <details>
-<summary><h3>🟡 Power BI</h3></summary>
+<summary><h3>📊 Power BI</h3></summary>
 
 > - End-to-end reports in Power BI Desktop and Service. Familiar with DAX measures, KPI cards, slicers, and drill-through pages.
 
