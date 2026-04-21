@@ -55,7 +55,7 @@
 <summary><b>🐍 Python</b></summary>
 <br>
 
-> **[📁 View Python Notebooks](https://github.com/chansg/python)**
+> **[📁 View Python Notebooks](https://github.com/chansg/Python)**
 - **Data Wrangling:** Extensive use of `pandas` and `NumPy` for cleaning and merging.
 - **Viz:** `Matplotlib` and `Seaborn` for statistical heatmaps and histograms.
 </details>
