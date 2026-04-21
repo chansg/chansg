@@ -27,7 +27,7 @@
 <summary><b>🟢 Excel</b></summary>
 <br>
 
-> **[📁 View Excel Projects](https://github.com/chansg/your-excel-repo)**
+> **[📁 View Excel Projects](https://github.com/chansg/Excel)**
 - **Formula Proficiency:** VLOOKUP, INDEX/MATCH, IF, and SUMIFS.
 - **Reporting:** Building summary reports from raw datasets using Pivot Tables and Conditional Formatting.
 - *Bootcamp Highlight:* Built a sales performance tracker with dynamic dashboards.
@@ -37,7 +37,7 @@
 <summary><b>🔵 Tableau</b></summary>
 <br>
 
-> **[📁 View Tableau Dashboards](https://github.com/chansg/your-tableau-repo)**
+> **[📁 View Tableau Dashboards](https://github.com/chansg/Tableau)**
 - **Visualization:** Experienced with calculated fields, filters, and parameters.
 - **Storytelling:** Built interactive layouts on Tableau Public focusing on user-driven insights.
 </details>
@@ -46,7 +46,7 @@
 <summary><b>🟡 Power BI</b></summary>
 <br>
 
-> **[📁 View Power BI Reports](https://github.com/chansg/your-powerbi-repo)**
+> **[📁 View Power BI Reports](https://github.com/chansg/PowerBI)**
 - **DAX & Modeling:** Created measures, KPI cards, and drill-through pages.
 - **End-to-End:** Managed data from Power BI Desktop through to Service publication.
 </details>
@@ -55,7 +55,7 @@
 <summary><b>🐍 Python</b></summary>
 <br>
 
-> **[📁 View Python Notebooks](https://github.com/chansg/your-python-repo)**
+> **[📁 View Python Notebooks](https://github.com/chansg/python)**
 - **Data Wrangling:** Extensive use of `pandas` and `NumPy` for cleaning and merging.
 - **Viz:** `Matplotlib` and `Seaborn` for statistical heatmaps and histograms.
 </details>
@@ -64,7 +64,7 @@
 <summary><b>🗄️ SQL</b></summary>
 <br>
 
-> **[📁 View SQL Queries](https://github.com/chansg/your-sql-repo)**
+> **[📁 View SQL Queries](https://github.com/chansg/SQL)**
 - **Core:** SELECT, JOINs, and complex aggregations (GROUP BY/HAVING).
 - **Design:** Subqueries and schema design using MySQL Workbench.
 </details>
