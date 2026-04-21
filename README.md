@@ -23,20 +23,72 @@
 
 ## 📊 Data Analysis Skills
 
-### 🟢 Excel
-Skilled in formulas (VLOOKUP, INDEX/MATCH, IF, SUMIFS), pivot tables, conditional formatting, and building summary reports from raw datasets.
+<!-- ⚠️ EXPERIMENTAL TEMPLATE: Do not merge to main until evidence is added. -->
 
-### 🔵 Tableau
-Built interactive dashboards using Tableau Public. Experienced with calculated fields, filters, parameters, and storytelling layouts.
+<details>
+<summary><h3>🟢 Excel</h3></summary>
 
-### 🟡 Power BI
-End-to-end reports in Power BI Desktop and Service. Familiar with DAX measures, KPI cards, slicers, and drill-through pages.
+> - Skilled in formulas (VLOOKUP, INDEX/MATCH, IF, SUMIFS), pivot tables, conditional formatting, and building summary reports from raw datasets.
 
-### 🐍 Python
-NumPy for numerical computation; Matplotlib for charts and histograms; Seaborn for statistical visualisations and heatmaps; pandas for cleaning, transformation, and merging.
+#### 🛠️ Project Showcase & Screenshots
 
-### 🗄️ SQL
-SELECT, JOIN, aggregation (GROUP BY, HAVING), subqueries, and schema design using MySQL Workbench.
+[Link to Project Repository](PASTE_URL_HERE)
+
+![Screenshot Description](PASTE_IMAGE_PATH_HERE)
+
+</details>
+
+<details>
+<summary><h3>🔵 Tableau</h3></summary>
+
+> - Built interactive dashboards using Tableau Public. Experienced with calculated fields, filters, parameters, and storytelling layouts.
+
+#### 🛠️ Project Showcase & Screenshots
+
+[Link to Project Repository](PASTE_URL_HERE)
+
+![Screenshot Description](PASTE_IMAGE_PATH_HERE)
+
+</details>
+
+<details>
+<summary><h3>🟡 Power BI</h3></summary>
+
+> - End-to-end reports in Power BI Desktop and Service. Familiar with DAX measures, KPI cards, slicers, and drill-through pages.
+
+#### 🛠️ Project Showcase & Screenshots
+
+[Link to Project Repository](PASTE_URL_HERE)
+
+![Screenshot Description](PASTE_IMAGE_PATH_HERE)
+
+</details>
+
+<details>
+<summary><h3>🐍 Python</h3></summary>
+
+> - NumPy for numerical computation; Matplotlib for charts and histograms; Seaborn for statistical visualisations and heatmaps; pandas for cleaning, transformation, and merging.
+
+#### 🛠️ Project Showcase & Screenshots
+
+[Link to Project Repository](PASTE_URL_HERE)
+
+![Screenshot Description](PASTE_IMAGE_PATH_HERE)
+
+</details>
+
+<details>
+<summary><h3>🗄️ SQL</h3></summary>
+
+> - SELECT, JOIN, aggregation (GROUP BY, HAVING), subqueries, and schema design using MySQL Workbench.
+
+#### 🛠️ Project Showcase & Screenshots
+
+[Link to Project Repository](PASTE_URL_HERE)
+
+![Screenshot Description](PASTE_IMAGE_PATH_HERE)
+
+</details>
 
 ---
 
