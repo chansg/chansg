@@ -26,47 +26,57 @@
 <details>
 <summary><b>🟢 Excel</b></summary>
 <br>
+<blockquote><p><strong><a href="https://github.com/chansg/Excel">📁 View Excel Projects</a></strong></p></blockquote>
+<ul>
+  <li><strong>Formula Proficiency:</strong> VLOOKUP, INDEX/MATCH, IF, and SUMIFS.</li>
+  <li><strong>Reporting:</strong> Building summary reports from raw datasets using Pivot Tables and Conditional Formatting.</li>
+  <li><em>Bootcamp Highlight:</em> Built a sales performance tracker with dynamic dashboards.</li>
+</ul>
 
-> **[📁 View Excel Projects](https://github.com/chansg/Excel)**
-- **Formula Proficiency:** VLOOKUP, INDEX/MATCH, IF, and SUMIFS.
-- **Reporting:** Building summary reports from raw datasets using Pivot Tables and Conditional Formatting.
-- *Bootcamp Highlight:* Built a sales performance tracker with dynamic dashboards.
 </details>
 
 <details>
 <summary><b>🔵 Tableau</b></summary>
 <br>
+<blockquote><p><strong><a href="https://github.com/chansg/Tableau">📁 View Tableau Dashboards</a></strong></p></blockquote>
+<ul>
+  <li><strong>Visualization:</strong> Experienced with calculated fields, filters, and parameters.</li>
+  <li><strong>Storytelling:</strong> Built interactive layouts on Tableau Public focusing on user-driven insights.</li>
+</ul>
 
-> **[📁 View Tableau Dashboards](https://github.com/chansg/Tableau)**
-- **Visualization:** Experienced with calculated fields, filters, and parameters.
-- **Storytelling:** Built interactive layouts on Tableau Public focusing on user-driven insights.
 </details>
 
 <details>
 <summary><b>🟡 Power BI</b></summary>
 <br>
+<blockquote><p><strong><a href="https://github.com/chansg/PowerBI">📁 View Power BI Reports</a></strong></p></blockquote>
+<ul>
+  <li><strong>DAX &amp; Modeling:</strong> Created measures, KPI cards, and drill-through pages.</li>
+  <li><strong>End-to-End:</strong> Managed data from Power BI Desktop through to Service publication.</li>
+</ul>
 
-> **[📁 View Power BI Reports](https://github.com/chansg/PowerBI)**
-- **DAX & Modeling:** Created measures, KPI cards, and drill-through pages.
-- **End-to-End:** Managed data from Power BI Desktop through to Service publication.
 </details>
 
 <details>
 <summary><b>🐍 Python</b></summary>
 <br>
+<blockquote><p><strong><a href="https://github.com/chansg/Python">📁 View Python Notebooks</a></strong></p></blockquote>
+<ul>
+  <li><strong>Data Wrangling:</strong> Extensive use of <code>pandas</code> and <code>NumPy</code> for cleaning and merging.</li>
+  <li><strong>Viz:</strong> <code>Matplotlib</code> and <code>Seaborn</code> for statistical heatmaps and histograms.</li>
+</ul>
 
-> **[📁 View Python Notebooks](https://github.com/chansg/Python)**
-- **Data Wrangling:** Extensive use of `pandas` and `NumPy` for cleaning and merging.
-- **Viz:** `Matplotlib` and `Seaborn` for statistical heatmaps and histograms.
 </details>
 
 <details>
 <summary><b>🗄️ SQL</b></summary>
 <br>
+<blockquote><p><strong><a href="https://github.com/chansg/SQL">📁 View SQL Queries</a></strong></p></blockquote>
+<ul>
+  <li><strong>Core:</strong> SELECT, JOINs, and complex aggregations (GROUP BY/HAVING).</li>
+  <li><strong>Design:</strong> Subqueries and schema design using MySQL Workbench.</li>
+</ul>
 
-> **[📁 View SQL Queries](https://github.com/chansg/SQL)**
-- **Core:** SELECT, JOINs, and complex aggregations (GROUP BY/HAVING).
-- **Design:** Subqueries and schema design using MySQL Workbench.
 </details>
 
 ---
