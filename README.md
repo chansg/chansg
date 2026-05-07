@@ -125,10 +125,6 @@ An autonomous AI desktop assistant with a VTube Studio avatar, British Piper TTS
 ## 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/chansg"><img src="https://github-readme-stats.vercel.app/api?username=chansg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Chan's GitHub Stats" height="165"/></a>
-  <a href="https://github.com/chansg"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chansg&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/></a>
-</p>
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=chansg&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
