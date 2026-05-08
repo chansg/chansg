@@ -116,9 +116,9 @@ A live market intelligence dashboard for the Black Desert Online EU Central Mark
 ---
 
 ### 🤖 [Project Aria](https://github.com/chansg/aria)
-An autonomous AI desktop assistant with a VTube Studio avatar, British Piper TTS voice, wake word detection, and a three-tier intent routing system (local handlers → Ollama/Mistral → Claude API). Features persistent SQLite memory and real-time voice interaction.
+A Windows-first personal AI desktop assistant for voice, screen context, memory, and finance research — built around the principle "Aria proposes, Chan decides." Features a three-tier reasoning router (local handlers → Gemini web/screen context → Claude), Kokoro ONNX TTS, faster-whisper STT, rolling screenshot vision analysis, SQLite memory, a Rich terminal dashboard, and a read-only Trading 212 demo sandbox for safe paper-trading research.
 
-**Tools:** Python, Ollama, Claude API, Gemini SDK, faster-whisper, SQLite, pyvts, Picovoice
+**Tools:** Python, Claude API, Gemini SDK, faster-whisper, Kokoro ONNX, SQLite, Trading 212 API, Playwright, Rich, pytest
 
 ---
 
