@@ -1,128 +1,78 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Chan+%F0%9F%91%8B;Junior+Data+Analyst+in+the+Making;Python+%7C+Power+BI+%7C+Tableau+%7C+Excel" alt="Typing SVG" />
-</h1>
+<h1 align="center">Chan Grewal</h1>
 
 <p align="center">
-  BSc Computer Science graduate based in Birmingham, UK &nbsp;•&nbsp;
-  Currently completing the <strong>Leep Talent Data Technician Skills Bootcamp</strong><br/>
-  Building toward a <strong>Junior Data Analyst</strong> role &nbsp;•&nbsp;
-  Longer-term interest in Security &amp; Detection Engineering
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=480&lines=Junior+Data+Analyst;Python+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+Tableau;Birmingham%2C+UK+%C2%B7+Open+to+Work" alt="Typing SVG" />
 </p>
 
 <p align="center">
+  <a href="https://chansg.github.io/chansg">
+    <img src="https://img.shields.io/badge/Portfolio-chansg.github.io-58A6FF?style=flat-square" alt="Portfolio"/>
+  </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/chansg/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-chansg-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  &nbsp;
   <a href="https://github.com/chansg">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-chansg-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Junior%20Data%20Analyst-brightgreen?style=for-the-badge" alt="Open to Work"/>
 </p>
 
 ---
 
-## 📊 Data Analysis Skills
-
-<details>
-<summary><b>🟢 Excel</b></summary>
-<br>
-<blockquote><p><strong><a href="https://github.com/chansg/Excel">📁 View Excel Projects</a></strong></p></blockquote>
-<ul>
-  <li><strong>Formula Proficiency:</strong> VLOOKUP, INDEX/MATCH, IF, and SUMIFS.</li>
-  <li><strong>Reporting:</strong> Building summary reports from raw datasets using Pivot Tables and Conditional Formatting.</li>
-  <li><em>Bootcamp Highlight:</em> Built a sales performance tracker with dynamic dashboards.</li>
-</ul>
-
-</details>
-
-<details>
-<summary><b>🔵 Tableau</b></summary>
-<br>
-<blockquote><p><strong><a href="https://github.com/chansg/Tableau">📁 View Tableau Dashboards</a></strong></p></blockquote>
-<ul>
-  <li><strong>Visualization:</strong> Experienced with calculated fields, filters, and parameters.</li>
-  <li><strong>Storytelling:</strong> Built interactive layouts on Tableau Public focusing on user-driven insights.</li>
-</ul>
-
-</details>
-
-<details>
-<summary><b>🟡 Power BI</b></summary>
-<br>
-<blockquote><p><strong><a href="https://github.com/chansg/PowerBI">📁 View Power BI Reports</a></strong></p></blockquote>
-<ul>
-  <li><strong>DAX &amp; Modeling:</strong> Created measures, KPI cards, and drill-through pages.</li>
-  <li><strong>End-to-End:</strong> Managed data from Power BI Desktop through to Service publication.</li>
-</ul>
-
-</details>
-
-<details>
-<summary><b>🐍 Python</b></summary>
-<br>
-<blockquote><p><strong><a href="https://github.com/chansg/Python">📁 View Python Notebooks</a></strong></p></blockquote>
-<ul>
-  <li><strong>Data Wrangling:</strong> Extensive use of <code>pandas</code> and <code>NumPy</code> for cleaning and merging.</li>
-  <li><strong>Viz:</strong> <code>Matplotlib</code> and <code>Seaborn</code> for statistical heatmaps and histograms.</li>
-</ul>
-
-</details>
-
-<details>
-<summary><b>🗄️ SQL</b></summary>
-<br>
-<blockquote><p><strong><a href="https://github.com/chansg/SQL">📁 View SQL Queries</a></strong></p></blockquote>
-<ul>
-  <li><strong>Core:</strong> SELECT, JOINs, and complex aggregations (GROUP BY/HAVING).</li>
-  <li><strong>Design:</strong> Subqueries and schema design using MySQL Workbench.</li>
-</ul>
-
-</details>
+BSc Computer Science graduate based in Birmingham, UK. I completed the **Leep Talent Data Technician Skills Bootcamp** (Level 3, Pass — May 2026) and am actively looking for my first **Junior Data Analyst** role. Longer-term, I'm drawn to Security Engineering and Detection.
 
 ---
 
-## 🛠️ Tech Stack
+## Skills
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=black"/>
-</p>
+| Data & Analysis | Languages | BI & Viz | Tooling |
+|---|---|---|---|
+| pandas, NumPy | Python | Power BI — DAX measures, KPI cards | Git, GitHub |
+| Matplotlib, Seaborn | SQL — GROUP BY/HAVING, subqueries | Tableau — calculated fields, parameters | Streamlit |
+| Data cleaning, EDA | MySQL Workbench | Excel — INDEX/MATCH, Pivot Tables, SUMIFS | PyCharm, scikit-learn |
 
 ---
 
-## 📁 Projects
+## Projects
 
-### 🎮 [BDO Analytics](https://github.com/chansg/bdo-analytics) *(In Development)*
-A live market intelligence dashboard for the Black Desert Online EU Central Market. Phase 1 of a 5-phase capstone project — featuring best-seller scoring, price stability metrics, anomaly detection, and Cooking/Alchemy insights.
+### 📊 [BDO Analytics](https://github.com/chansg/bdo-analytics)
 
-**Tools:** Python, Streamlit, Plotly, pandas
+A real-time market-intelligence dashboard ingesting live Central Market data, surfacing best-seller rankings, price-stability scoring, and anomaly detection across a volatile, high-frequency dataset. Built as an end-to-end analytics product: ingestion → metrics → interactive dashboard with watchlists and CSV export.
+
+**What it shows:** real-time data ingestion, time-series analysis, anomaly detection, and self-serve dashboarding — the core loop of an analytics role.
+
+**Tools:** Python · pandas · Plotly · Streamlit
+
+---
+
+### 🎬 [Shorts Pipeline](https://github.com/chansg/shorts_pipeline)
+
+Turning long gameplay recordings into polished short-form video normally takes hours of manual editing; I automated the full stack — CV-based highlight extraction, Whisper speech-to-text with per-speaker diarisation, AI image and video generation, caption burning, and audio mixing — behind a Gradio human-review gate, validated across 294 passing tests.
+
+**Tools:** Python · ffmpeg · Whisper · Gemini API · ElevenLabs · OpenCV
+
+---
+
+### 🔎 [AI Security Log Analyser](https://github.com/chansg/ai-security-log-analyzer)
+
+An anomaly-detection system combining an Isolation Forest model with a rule engine to flag suspicious patterns in authentication telemetry, surfaced through a Django dashboard. A practical exercise in unsupervised ML, feature engineering, and turning model output into something a human can actually triage.
+
+**What it shows:** unsupervised anomaly detection, feature engineering, and operationalising model output into a usable interface.
+
+**Tools:** Python · scikit-learn · Django · pandas
 
 ---
 
 ### 🤖 [Project Aria](https://github.com/chansg/aria)
-A Windows-first personal AI desktop assistant for voice, screen context, memory, and finance research — built around the principle "Aria proposes, Chan decides." Features a three-tier reasoning router (local handlers → Gemini web/screen context → Claude), Kokoro ONNX TTS, faster-whisper STT, rolling screenshot vision analysis, SQLite memory, a Rich terminal dashboard, and a read-only Trading 212 demo sandbox for safe paper-trading research.
 
-**Tools:** Python, Claude API, Gemini SDK, faster-whisper, Kokoro ONNX, SQLite, Trading 212 API, Playwright, Rich, pytest
+A Windows voice assistant reframed as a personal study tool: it records and locally transcribes meetings with Whisper into timestamped, summarisable notes, and answers questions about whatever is on screen — *"what's wrong with line 6?"* on a SQL query — by reading the active window. A self-registering capability router (keyword → local semantic embedding → Claude) keeps every action observable and human-approved, backed by 141 passing tests.
+
+**Tools:** Python · Claude API · Gemini · faster-whisper · Kokoro ONNX · SQLite
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=chansg&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
@@ -130,14 +80,4 @@ A Windows-first personal AI desktop assistant for voice, screen context, memory,
 
 ---
 
-## 📬 Get in touch
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/chansg/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/chansg">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-<p align="center">💼 Open to Junior Data Analyst roles in the UK</p>
+<p align="center">Open to Junior Data Analyst roles across the UK</p>
