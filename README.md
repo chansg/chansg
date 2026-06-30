@@ -20,7 +20,7 @@
 
 ---
 
-BSc Computer Science graduate based in Birmingham, UK. I completed the **Leep Talent Data Technician Skills Bootcamp** (Level 3, Pass — May 2026) and am actively looking for my first **Junior Data Analyst** role. Longer-term, I'm drawn to Security Engineering and Detection.
+BSc Computer Science graduate based in Birmingham, UK. I completed the **Leep Talent Data Technician Skills Bootcamp** and am actively looking for my first **Junior Data Analyst** role. Longer-term, I'm drawn to Security Engineering and Detection.
 
 ---
 
