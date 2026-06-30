@@ -1,4 +1,4 @@
-<h1 align="center">Chan Grewal</h1>
+<h1 align="center">Chanveer S Grewal</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=480&lines=Junior+Data+Analyst;Python+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+Tableau;Birmingham%2C+UK+%C2%B7+Open+to+Work" alt="Typing SVG" />
