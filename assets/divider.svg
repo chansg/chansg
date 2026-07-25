@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 14" width="880" height="14" aria-hidden="true">
+  <!-- Decorative divider: hairline interrupted by a tiny sparkline glyph echoing the header chart -->
+  <line x1="0"   y1="7" x2="412" y2="7" stroke="#8B949E" stroke-opacity="0.35" stroke-width="1"/>
+  <line x1="468" y1="7" x2="880" y2="7" stroke="#8B949E" stroke-opacity="0.35" stroke-width="1"/>
+  <path d="M420,10 L428,4 L435,9 L444,2 L452,7 L460,5" fill="none" stroke="#58A6FF" stroke-width="1.5"
+        stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

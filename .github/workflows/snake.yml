@@ -1,0 +1,37 @@
+# Generates an animated snake eating the contribution graph, published to the
+# `output` branch as SVGs (dark + light). Referenced from README.md via
+# raw.githubusercontent.com once the first run has completed.
+#
+# SETUP (one-time): enable GitHub Actions for this repo, then trigger this
+# workflow manually (Actions tab -> generate-snake -> Run workflow). After the
+# first successful run, uncomment the snake <picture> block in README.md.
+name: generate-snake
+
+on:
+  schedule:
+    - cron: "0 3 * * *" # daily, 03:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Generate snake SVGs
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: chansg
+          outputs: |
+            dist/github-snake.svg?palette=github-dark
+            dist/github-snake-light.svg?palette=github-light
+
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

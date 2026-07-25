@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 200" width="880" height="200" role="img" aria-labelledby="t">
+  <title id="t">chansg — Data | Security | IT — London, UK</title>
+
+  <!-- Dashboard card -->
+  <rect x="1" y="1" width="878" height="198" rx="12" fill="#0D1117" stroke="#30363D" stroke-width="1"/>
+
+  <!-- Gridlines (staggered fade-in, frozen at full) -->
+  <g stroke="#21262D" stroke-width="1">
+    <line x1="24" y1="60"  x2="856" y2="60"  opacity="1">
+      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="0s" fill="freeze"/>
+    </line>
+    <line x1="24" y1="100" x2="856" y2="100" opacity="1">
+      <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.2;1" dur="0.5s" begin="0s" fill="freeze"/>
+    </line>
+    <line x1="24" y1="140" x2="856" y2="140" opacity="1">
+      <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.33;1" dur="0.6s" begin="0s" fill="freeze"/>
+    </line>
+    <line x1="24" y1="180" x2="856" y2="180" opacity="1">
+      <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.43;1" dur="0.7s" begin="0s" fill="freeze"/>
+    </line>
+  </g>
+
+  <!-- Name lockup (rises in, then frozen) -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 10;0 10;0 0" keyTimes="0;0.25;1"
+      calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1" dur="0.8s" begin="0s" fill="freeze"/>
+    <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.25;1" dur="0.8s" begin="0s" fill="freeze"/>
+    <text x="48" y="92" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="40" font-weight="700" fill="#E6EDF3">chansg</text>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 10;0 10;0 0" keyTimes="0;0.43;1"
+      calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1" dur="1.05s" begin="0s" fill="freeze"/>
+    <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.43;1" dur="1.05s" begin="0s" fill="freeze"/>
+    <text x="48" y="124" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#8B949E">Data | Security | IT — London, UK</text>
+  </g>
+
+  <!-- Area fill under the series (breathes in, frozen) -->
+  <path d="M400,150 L460,140 L520,132 L580,136 L640,118 L700,148 L760,92 L820,64 L820,170 L400,170 Z"
+        fill="#58A6FF" opacity="0.1">
+    <animate attributeName="opacity" values="0;0;0.1" keyTimes="0;0.58;1" dur="2.4s" begin="0s" fill="freeze"/>
+  </path>
+
+  <!-- The series draws itself left to right -->
+  <path d="M400,150 L460,140 L520,132 L580,136 L640,118 L700,148 L760,92 L820,64"
+        fill="none" stroke="#58A6FF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"
+        pathLength="100" stroke-dasharray="100" stroke-dashoffset="0">
+    <animate attributeName="stroke-dashoffset" values="100;100;0" keyTimes="0;0.27;1"
+      calcMode="spline" keySplines="0 0 1 1;0.4 0 0.2 1" dur="2.2s" begin="0s" fill="freeze"/>
+  </path>
+
+  <!-- Vertex dots pop as the line tip passes -->
+  <circle cx="400" cy="150" r="3.5" fill="#58A6FF">
+    <animate attributeName="r" values="0;0;4.2;3.5" keyTimes="0;0.63;0.89;1" dur="0.95s" begin="0s" fill="freeze"/>
+  </circle>
+  <circle cx="460" cy="140" r="3.5" fill="#58A6FF">
+    <animate attributeName="r" values="0;0;4.2;3.5" keyTimes="0;0.70;0.91;1" dur="1.18s" begin="0s" fill="freeze"/>
+  </circle>
+  <circle cx="520" cy="132" r="3.5" fill="#58A6FF">
+    <animate attributeName="r" values="0;0;4.2;3.5" keyTimes="0;0.75;0.93;1" dur="1.41s" begin="0s" fill="freeze"/>
+  </circle>
+  <circle cx="580" cy="136" r="3.5" fill="#58A6FF">
+    <animate attributeName="r" values="0;0;4.2;3.5" keyTimes="0;0.79;0.94;1" dur="1.64s" begin="0s" fill="freeze"/>
+  </circle>
+  <circle cx="640" cy="118" r="3.5" fill="#58A6FF">
+    <animate attributeName="r" values="0;0;4.2;3.5" keyTimes="0;0.81;0.94;1" dur="1.86s" begin="0s" fill="freeze"/>
+  </circle>
+
+  <!-- Anomaly: the amber outlier, flagged -->
+  <circle cx="700" cy="148" r="4" fill="#D29922">
+    <animate attributeName="r" values="0;0;4.6;4" keyTimes="0;0.83;0.95;1" dur="2.09s" begin="0s" fill="freeze"/>
+  </circle>
+  <line x1="700" y1="141" x2="676" y2="62" stroke="#D29922" stroke-width="1.2" stroke-dasharray="4 3" opacity="0.85">
+    <animate attributeName="opacity" values="0;0;0.85" keyTimes="0;0.9;1" dur="2.55s" begin="0s" fill="freeze"/>
+  </line>
+  <text x="672" y="52" text-anchor="end" font-family="ui-monospace, 'Cascadia Mono', Consolas, Menlo, monospace"
+        font-size="11" fill="#D29922" opacity="1">z = 3.1 · flagged
+    <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.89;1" dur="2.85s" begin="0s" fill="freeze"/>
+  </text>
+
+  <circle cx="760" cy="92" r="3.5" fill="#58A6FF">
+    <animate attributeName="r" values="0;0;4.2;3.5" keyTimes="0;0.85;0.95;1" dur="2.32s" begin="0s" fill="freeze"/>
+  </circle>
+
+  <!-- Live endpoint: green dot + perpetual heartbeat ring (the page's only loop) -->
+  <circle cx="820" cy="64" r="4" fill="#3FB950">
+    <animate attributeName="r" values="0;0;4" keyTimes="0;0.9;1" dur="2.45s" begin="0s" fill="freeze"/>
+  </circle>
+  <circle cx="820" cy="64" r="4" fill="none" stroke="#3FB950" stroke-width="1.5" opacity="0">
+    <animate attributeName="r" values="4;14" dur="2.4s" begin="2.6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.6;0" dur="2.4s" begin="2.6s" repeatCount="indefinite"/>
+  </circle>
+</svg>
