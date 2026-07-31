@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 40" width="480" height="40" role="img" aria-labelledby="t">
-  <title id="t">Open to Data, Security &amp; IT roles in London and across the UK</title>
+  <title id="t">Cyber Security Analyst · Sparta Global · London, UK</title>
   <rect x="1" y="1" width="478" height="38" rx="19" fill="#0D1117" stroke="#30363D" stroke-width="1"/>
   <!-- Live status dot — same heartbeat as the header endpoint -->
   <circle cx="30" cy="20" r="4" fill="#3FB950"/>
@@ -7,5 +7,5 @@
     <animate attributeName="r" values="4;14" dur="2.4s" begin="0.6s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0.6;0" dur="2.4s" begin="0.6s" repeatCount="indefinite"/>
   </circle>
-  <text x="50" y="25" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#C9D1D9">Open to Data, Security &amp; IT roles in London and across the UK</text>
+  <text x="50" y="25" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#C9D1D9">Cyber Security Analyst · Sparta Global · London, UK</text>
 </svg>

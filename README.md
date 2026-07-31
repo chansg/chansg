@@ -1,12 +1,12 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-    <img src="assets/header-light.svg" alt="chansg — Data | Security | IT — London, UK" width="880">
+    <img src="assets/header-light.svg" alt="chansg — Cyber Security Analyst — London, UK" width="880">
   </picture>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=58A6FF&center=true&vCenter=true&width=480&lines=Data+%7C+Security+%7C+IT;Python+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+Tableau;London%2C+UK+%C2%B7+Open+to+Work" alt="Data | Security | IT · Python · SQL · Power BI · Tableau · London, UK" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=58A6FF&center=true&vCenter=true&width=480&lines=Cyber+Security+Analyst;SOC+%C2%B7+Threat+Detection+%C2%B7+IAM;Entra+ID+%C2%B7+Intune+%C2%B7+Zscaler+%C2%B7+PowerShell" alt="Cyber Security Analyst · SOC · Threat Detection · IAM · Entra ID · Intune · Zscaler · PowerShell" />
 </p>
 
 <p align="center">
@@ -23,25 +23,11 @@
   </a>
 </p>
 
-BSc Computer Science graduate based in London, UK. I completed the **Leep Talent Data Technician Skills Bootcamp (May 2026)** and am actively looking for my next role across **data, security, and IT**. Longer-term, I'm building toward Security Engineering & Detection.
+**Cyber Security Analyst** at **Sparta Global**, based in London, UK — working across **SOC, threat detection, and identity & access management (Entra ID)**. My foundation is IT engineering: identity-lifecycle automation in PowerShell, Conditional Access, Intune, Zscaler, and Mimecast, on top of a BSc in Computer Science and a completed data bootcamp (May 2026). Longer-term, I'm building toward **Detection Engineering**.
 
 <p align="center"><img src="assets/divider.svg" width="880" alt=""></p>
 
-## Projects
-
-### 📊 [BDO Analytics](https://github.com/chansg/bdo-analytics)
-
-A real-time market-intelligence dashboard ingesting live Central Market data, surfacing best-seller rankings, price-stability scoring, and anomaly detection across a volatile, high-frequency dataset. Built as an end-to-end analytics product: ingestion → metrics → interactive dashboard with watchlists and CSV export.
-
-**What it shows:** real-time data ingestion, time-series analysis, anomaly detection, and self-serve dashboarding — the core loop of an analytics role.
-
-**Tools:** Python · pandas · Plotly · Streamlit
-
-### 🎬 [Shorts Pipeline](https://github.com/chansg/shorts_pipeline)
-
-Turning long gameplay recordings into polished short-form video normally takes hours of manual editing; I automated the full stack — CV-based highlight extraction, Whisper speech-to-text with per-speaker diarisation, AI image and video generation, caption burning, and audio mixing — behind a Gradio human-review gate, validated across 295 passing tests.
-
-**Tools:** Python · ffmpeg · Whisper · Gemini API · ElevenLabs · OpenCV
+## Security
 
 ### 🔎 [AI Security Log Analyser](https://github.com/chansg/ai-security-log-analyzer)
 
@@ -51,9 +37,25 @@ An anomaly-detection system combining an Isolation Forest model with a rule engi
 
 **Tools:** Python · scikit-learn · Django · pandas
 
+## Engineering range
+
+### 📊 [BDO Analytics](https://github.com/chansg/bdo-analytics)
+
+A real-time market-intelligence dashboard ingesting live Central Market data, surfacing best-seller rankings, price-stability scoring, and anomaly detection across a volatile, high-frequency dataset. Built as an end-to-end analytics product: ingestion → metrics → interactive dashboard with watchlists and CSV export.
+
+**What it shows:** real-time data ingestion, time-series analysis, anomaly detection, and self-serve dashboarding.
+
+**Tools:** Python · pandas · Plotly · Streamlit
+
+### 🎬 [Shorts Pipeline](https://github.com/chansg/shorts_pipeline)
+
+Turning long gameplay recordings into polished short-form video normally takes hours of manual editing; I automated the full stack — CV-based highlight extraction, Whisper speech-to-text with per-speaker diarisation, AI image and video generation, caption burning, and audio mixing — behind a Gradio human-review gate, validated across 295 passing tests.
+
+**Tools:** Python · ffmpeg · Whisper · Gemini API · ElevenLabs · OpenCV
+
 ### 🤖 [Project Aria](https://github.com/chansg/aria)
 
-A Windows voice assistant reframed as a personal study tool: it records and locally transcribes meetings with Whisper into timestamped, summarisable notes, and answers questions about whatever is on screen — *"what's wrong with line 6?"* on a SQL query — by reading the active window. A self-registering capability router (keyword → local semantic embedding → Claude) keeps every action observable and human-approved, backed by 441 passing tests.
+A Windows voice assistant reframed as a personal study tool: it records and locally transcribes meetings with Whisper into timestamped, summarisable notes, and answers questions about whatever is on screen — *"what's wrong with line 6?"* on a SQL query — by reading the active window. A self-registering capability router (keyword → local semantic embedding → Claude) keeps every action observable and human-approved — side-effecting intents are deterministic keyword-only, so they can't fire off a loose semantic match — backed by 441 passing tests.
 
 **Tools:** Python · Claude API · Gemini · faster-whisper · Kokoro ONNX · SQLite
 
@@ -61,11 +63,11 @@ A Windows voice assistant reframed as a personal study tool: it records and loca
 
 ## Skills
 
-| Data & Analysis | Languages | BI & Viz | Tooling |
+| Identity & Access | Endpoint, Network & Email | Automation | Data & Analysis |
 |---|---|---|---|
-| pandas, NumPy | Python | Power BI — DAX measures, KPI cards | Git, GitHub |
-| Matplotlib, Seaborn | SQL — GROUP BY/HAVING, subqueries | Tableau — calculated fields, parameters | Streamlit |
-| Data cleaning, EDA | MySQL Workbench | Excel — INDEX/MATCH, Pivot Tables, SUMIFS | PyCharm, scikit-learn |
+| Entra ID, Active Directory | Intune — endpoint management | PowerShell — JML / identity-lifecycle automation | Python — pandas, scikit-learn |
+| Conditional Access policies | Zscaler — network & web security | Git, GitHub, PyCharm | SQL — GROUP BY/HAVING, subqueries |
+| Joiner–mover–leaver process | Mimecast — email security | | Power BI — DAX measures · Excel — INDEX/MATCH |
 
 <details>
 <summary><b>Where these techniques show up</b></summary>
@@ -129,6 +131,6 @@ then uncomment this block:
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/status-dark.svg">
-    <img src="assets/status-light.svg" alt="Open to Data, Security & IT roles in London and across the UK" width="480">
+    <img src="assets/status-light.svg" alt="Cyber Security Analyst · Sparta Global · London, UK" width="480">
   </picture>
 </p>
